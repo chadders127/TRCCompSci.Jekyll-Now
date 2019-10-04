@@ -3,6 +3,11 @@ layout: post
 title: We used variables
 catagories: project
 ---
+VARIABLE:
+able to be changed or adapted.
+"the drill has variable speed"
+
+
 I used a variable at some point. Here is the code to prove it that may be mine:
 
 string temp;
