@@ -4,6 +4,7 @@ title: We used variables
 catagories: project
 ---
 I used a variable at some point. Here is the code to prove it that may be mine:
+
 string temp;
         Console.WriteLine("Enter number a:");
         temp = Console.ReadLine();
